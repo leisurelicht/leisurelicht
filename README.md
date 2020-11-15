@@ -13,7 +13,7 @@
   </p>
   <p align="right">
     <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leisurelicht&layout=compact" >
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leisurelicht" >
     </a>
   </p>
 </div>
