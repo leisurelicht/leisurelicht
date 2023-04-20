@@ -2,6 +2,9 @@
 
 ### Hello  👋
  
+----
+----
+
 ## WHO AM I ?
 
 - :ram: A programmer with a modest pursuit for good code.
