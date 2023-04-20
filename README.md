@@ -20,8 +20,6 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2018 - To: 20 April 2023
-
 Total Time: 551 hrs 24 mins
 
 Python                     348 hrs 17 mins ███████████████▓░░░░░░░░░   63.16 %
