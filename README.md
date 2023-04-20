@@ -4,9 +4,9 @@
  
 ## WHO AM I ?
 
-- :ram: 对代码还算是有点追求的程序员
-- :orange_book: Python 写的还不错，甚至能搞点八股文
-- :hammer: 打工人，打工魂
+- :ram: A programmer with a modest pursuit for good code.
+- :orange_book: Skilled in Python and Golang, interested in Rust, and frequently use Lua to write my own neovim configuration files.
+- :hammer: Heavy user of Neovim and recently interested in implementing plugins for it.
 
 ----
 
