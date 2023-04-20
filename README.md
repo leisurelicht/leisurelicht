@@ -18,12 +18,24 @@
 ----
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
 ```text
-Total Time: 7 hrs 9 mins
+💬 Programming Languages: 
+Lua                      3 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.76 % 
+Other                    3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.07 % 
+Go                       2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+sshconfig                25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Vim Script               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 
-Lua          3 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   31.76 %
-Other        3 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   31.07 %
+🔥 Editors: 
+Neovim                   6 hrs 34 mins       ████████████████░░░░░░░░░   63.33 % 
+Chrome                   3 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.95 % 
+VS Code                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Vim                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+GoLand                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
+
+ Last Updated on 20/04/2023 19:22:46 UTC
 <!--END_SECTION:waka-->
