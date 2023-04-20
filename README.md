@@ -3,8 +3,9 @@
 ### Hello  👋
 
 <br>
-<!--START_SECTION:SHOW_LINES_OF_CODE-->
-<!--END_SECTION:SHOW_LINES_OF_CODE-->
+![GitHub followers](https://img.shields.io/github/followers/leisurelicht?label=Follow&style=social)
+![Waka Readme](https://github.com/leisurelicht/leisurelicht/workflows/Waka%20Readme/badge.svg)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 <br>
 
 
