@@ -3,10 +3,10 @@
 ### Hello  👋
 
 <br>
-![GitHub followers](https://img.shields.io/github/followers/leisurelicht?label=Follow&style=social)
+
 ![Waka Readme](https://github.com/leisurelicht/leisurelicht/workflows/Waka%20Readme/badge.svg)
+![GitHub followers](https://img.shields.io/github/followers/leisurelicht?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-<br>
 
 
 ## WHO AM I ?
