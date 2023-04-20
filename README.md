@@ -20,7 +20,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Lua          3 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   31.76 %
+Other        3 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   31.07 %
 ```
 
 <!--END_SECTION:waka-->
