@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 10 hrs 23 mins
+Total Time: 7 hrs 9 mins
 
 Lua          3 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   31.76 %
 Other        3 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   31.07 %
