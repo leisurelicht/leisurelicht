@@ -1,9 +1,12 @@
-<img align=right src="https://github-readme-stats.vercel.app/api?username=leisurelicht&show_icons=true&include_all_commits=true&theme=tokyonight" >
+<img align=right src="https://github-readme-stats.vercel.app/api?username=leisurelicht&show_icons=true&include_all_commits=true&theme=tokyonight" style="width:50%">
 
 ### Hello  👋
- 
-----
-----
+
+<br>
+<!--START_SECTION:SHOW_LINES_OF_CODE-->
+<!--END_SECTION:SHOW_LINES_OF_CODE-->
+<br>
+
 
 ## WHO AM I ?
 
