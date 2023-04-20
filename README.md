@@ -11,9 +11,9 @@
 
 ## WHO AM I ?
 
-- :ram: A programmer with a modest pursuit for good code.
-- :orange_book: Skilled in ![Python](https://img.shields.io/badge/-Python-100000?style=flat-square&logo=Python) and ![Golang](https://img.shields.io/badge/-Golang-100000?style=flat-square&logo=Go), interested in ![Rust](https://img.shields.io/badge/-Rust-100000?style=flat-square&logo=Rust), and frequently use ![Lua](https://img.shields.io/badge/-Lua-100000?style=flat-square&logo=Lua) to write my own neovim configuration files.
-- :hammer: Heavy user of ![Neovim](https://img.shields.io/badge/-Neovim-100000?style=flat-square&logo=Neovim) and recently interested in implementing plugins for it.
+- A programmer with a modest pursuit for good code.
+- Skilled in ![Python](https://img.shields.io/badge/-Python-100000?style=flat-square&logo=Python) and ![Golang](https://img.shields.io/badge/-Golang-100000?style=flat-square&logo=Go), interested in ![Rust](https://img.shields.io/badge/-Rust-100000?style=flat-square&logo=Rust), and frequently use ![Lua](https://img.shields.io/badge/-Lua-100000?style=flat-square&logo=Lua) to write my own neovim configuration files.
+- Heavy user of ![Neovim](https://img.shields.io/badge/-Neovim-100000?style=flat-square&logo=Neovim) and recently interested in implementing plugins for it.
 
 ----
 
