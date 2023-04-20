@@ -20,8 +20,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-Lua          3 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   31.76 %
-Other        3 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   31.07 %
+From: 05 May 2018 - To: 20 April 2023
+
+Total Time: 551 hrs 24 mins
+
+Python                     348 hrs 17 mins ███████████████▓░░░░░░░░░   63.16 %
+YAML                       36 hrs 14 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Go                         24 hrs 3 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+HTML                       22 hrs 39 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Vue.js                     20 hrs 31 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Other                      18 hrs 13 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
