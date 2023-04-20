@@ -14,6 +14,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: Update Wakapi stats
+          TIME_RANGE: last_30_days
+          SHOW_TIME: true
           LOCALE: "en"
           UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
           SHOW_OS: "False"
