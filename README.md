@@ -5,6 +5,7 @@
 <br>
 
 ![Waka Readme](https://github.com/leisurelicht/leisurelicht/workflows/Waka%20Readme/badge.svg)
+<a href="https://wakatime.com/@10fcbc7a-8a71-468e-b393-5209c46f1399"><img src="https://wakatime.com/badge/user/10fcbc7a-8a71-468e-b393-5209c46f1399.svg" alt="Total time coded since May 6 2018" /></a>
 
 ## <a href="https://github.com/leisurelicht" rel="nofollow"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="20px" width="20px"> </a> WHO AM I ?
 
@@ -35,7 +36,6 @@ Chrome                   19 mins             ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
 
 ### 🌍 The languages I Use
 
