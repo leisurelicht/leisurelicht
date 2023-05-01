@@ -26,4 +26,4 @@
 
 | ⌛️ All Time                                                                                                                                                   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://wakatime.com/@leisurelicht"><img src="https://wakatime.com/share/@leisurelicht/051ae4b9-ff30-4af1-a35e-f4a2e23cf11b.svg" height="600px"></a> |
+| <a href="https://wakatime.com/@leisurelicht"><img src="https://wakatime.com/share/@leisurelicht/051ae4b9-ff30-4af1-a35e-f4a2e23cf11b.svg" height="300px" ></a> |
