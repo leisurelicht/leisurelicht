@@ -5,7 +5,7 @@
 <br>
 
 ![Waka Readme](https://github.com/leisurelicht/leisurelicht/workflows/Waka%20Readme/badge.svg)
-[![wakatime](https://wakatime.com/badge/user/10fcbc7a-8a71-468e-b393-5209c46f1399.svg)](https://wakatime.com/@leisurelicht)
+[![Wakatime](https://wakatime.com/badge/user/10fcbc7a-8a71-468e-b393-5209c46f1399.svg)](https://wakatime.com/@leisurelicht)
 
 
 ## <a href="https://github.com/leisurelicht" rel="nofollow"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="20px" width="20px"> </a> WHO AM I ?
@@ -15,6 +15,9 @@
 - Frequently use ![Lua](https://img.shields.io/badge/-Lua-100000?style=flat-square&logo=Lua) to write my neovim configuration files, and use ![Shell](https://img.shields.io/badge/-Shell-100000?style=flat-square&logo=linux) to create some useful script.
 - Heavy user of ![Neovim](https://img.shields.io/badge/-Neovim-100000?style=flat-square&logo=Neovim) recently and interested in implementing plugins for it.
 
+<p align="center"> if you like what i do, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
+<p align="center"><a href="./buy_me_a_coffee.md" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+  
 ----
 
 <!--START_SECTION:waka-->
