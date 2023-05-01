@@ -1,6 +1,6 @@
 <img align=right src="https://github-readme-stats.vercel.app/api?username=leisurelicht&show_icons=true&include_all_commits=true&theme=tokyonight" style="width:50%">
 
-### Hello <a href="https://github.com/leisurelicht" rel="nofollow"> <img src="https://raw.githubusercontent.com/leisurelicht/leisurelicht/master/wave.gif" height="36px" width="36px"> </a>
+## Hello <a href="https://github.com/leisurelicht" rel="nofollow"> <img src="https://raw.githubusercontent.com/leisurelicht/leisurelicht/master/wave.gif" height="36px" width="36px"> </a>
 
 <br>
 
@@ -11,7 +11,8 @@
 ## <a href="https://github.com/leisurelicht" rel="nofollow"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="20px" width="20px"> </a> WHO AM I ?
 
 - A programmer with a modest pursuit for good code.
-- Skilled in ![Python](https://img.shields.io/badge/-Python-100000?style=flat-square&logo=Python) and ![Golang](https://img.shields.io/badge/-Golang-100000?style=flat-square&logo=Go), interested in ![Rust](https://img.shields.io/badge/-Rust-100000?style=flat-square&logo=Rust), frequently use ![Lua](https://img.shields.io/badge/-Lua-100000?style=flat-square&logo=Lua) to write my neovim configuration files, and use ![Shell](https://img.shields.io/badge/-Shell-100000?style=flat-square&logo=linux) to create some useful script.
+- Skilled in ![Python](https://img.shields.io/badge/-Python-100000?style=flat-square&logo=Python) and ![Golang](https://img.shields.io/badge/-Golang-100000?style=flat-square&logo=Go).
+- Frequently use ![Lua](https://img.shields.io/badge/-Lua-100000?style=flat-square&logo=Lua) to write my neovim configuration files, and use ![Shell](https://img.shields.io/badge/-Shell-100000?style=flat-square&logo=linux) to create some useful script.
 - Heavy user of ![Neovim](https://img.shields.io/badge/-Neovim-100000?style=flat-square&logo=Neovim) recently and interested in implementing plugins for it.
 
 ----
