@@ -1,6 +1,6 @@
 <img align=right src="https://github-readme-stats.vercel.app/api?username=leisurelicht&show_icons=true&include_all_commits=true&theme=tokyonight" style="width:50%">
 
-### Hello  <a href="" rel="nofollow"> <img src="https://raw.githubusercontent.com/leisurelicht/leisurelicht/master/wave.gif" height="36px" width="36px"> </a>
+### Hello <a href="https://github.com/leisurelicht" rel="nofollow"><img src="https://raw.githubusercontent.com/leisurelicht/leisurelicht/master/wave.gif" height="36px" width="36px"> </a>
 
 <br>
 
