@@ -15,6 +15,15 @@
 
 ----
 
+## The Language I use
+
+| ⏰ Past month                                                                                                                                           | ⌛️ All time                                                                                                                                            |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://wakatime.com/@leisurelicht"><img src="https://wakatime.com/share/@10fcbc7a-8a71-468e-b393-5209c46f1399/815adc5a-cae0-4521-b848-9e9cde98a379.svg" height="300px"></a> | <a href="https://wakatime.com/@leisurelicht"><img src="https://wakatime.com/share/@leisurelicht/a4e1c5cd-c561-48e5-9d35-6a06dfdd26c8.svg" height="300px"></a> |
+
+
+## MY WAKATIME STATUS
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
