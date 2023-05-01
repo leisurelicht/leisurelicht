@@ -4,6 +4,8 @@
 
 <br>
 
+[![wakatime](https://wakatime.com/badge/user/10fcbc7a-8a71-468e-b393-5209c46f1399.svg)](https://wakatime.com/@10fcbc7a-8a71-468e-b393-5209c46f1399)
+<a href="https://wakatime.com/@10fcbc7a-8a71-468e-b393-5209c46f1399"><img src="https://wakatime.com/badge/user/10fcbc7a-8a71-468e-b393-5209c46f1399.svg" alt="Total time coded since May 6 2018" /></a>
 ![Waka Readme](https://github.com/leisurelicht/leisurelicht/workflows/Waka%20Readme/badge.svg)
 
 
