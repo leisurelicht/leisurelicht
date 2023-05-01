@@ -4,6 +4,7 @@
 
 <br>
 ![Waka Readme](https://github.com/leisurelicht/leisurelicht/workflows/Waka%20Readme/badge.svg)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
