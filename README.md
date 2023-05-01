@@ -3,9 +3,9 @@
 ### Hello  👋
 
 <br>
-
 ![Waka Readme](https://github.com/leisurelicht/leisurelicht/workflows/Waka%20Readme/badge.svg)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## WHO AM I ?
 
@@ -15,34 +15,14 @@
 
 ----
 
-## The Language I use
+## The Language I Use
 
-| ⏰ Past month                                                                                                                                           | ⌛️ All time                                                                                                                                            |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://wakatime.com/@leisurelicht"><img src="https://wakatime.com/share/@10fcbc7a-8a71-468e-b393-5209c46f1399/815adc5a-cae0-4521-b848-9e9cde98a379.svg" height="300px"></a> | <a href="https://wakatime.com/@leisurelicht"><img src="https://wakatime.com/share/@leisurelicht/a4e1c5cd-c561-48e5-9d35-6a06dfdd26c8.svg" height="300px"></a> |
+| ⏰ Past Month                                                                                                                                                  | ⌛️ All Time                                                                                                                                                  |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://wakatime.com/@leisurelicht"><img src="https://wakatime.com/share/@leisurelicht/469e9d6a-5dd6-4a93-b293-75250ba5ce38.svg" height="300px"></a> | <a href="https://wakatime.com/@leisurelicht"><img src="https://wakatime.com/share/@leisurelicht/b234f59f-c24b-4a9d-bc65-acba005c4ac0.svg" height="300px"></a> |
 
+## The Editors I Use
 
-## MY WAKATIME STATUS
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Bash                     8 hrs 37 mins       ████████████░░░░░░░░░░░░░   49.40 % 
-Go                       2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-YAML                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Lua                      1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-
-🔥 Editors: 
-Neovim                   10 hrs 7 mins       ██████████████░░░░░░░░░░░   57.93 % 
-GoLand                   5 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   32.02 % 
-Vim                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Chrome                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-```
-
-
- Last Updated on 2023/05/01 10:29:46 UTC
-<!--END_SECTION:waka-->
+| ⌛️ All Time                                                                                                                                                   |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://wakatime.com/@leisurelicht"><img src="https://wakatime.com/share/@leisurelicht/051ae4b9-ff30-4af1-a35e-f4a2e23cf11b.svg" height="600px"></a> |
