@@ -3,11 +3,12 @@
 ### Hello  👋
 
 <br>
+
 ![Waka Readme](https://github.com/leisurelicht/leisurelicht/workflows/Waka%20Readme/badge.svg)
 
 
 
-## WHO AM I ?
+### WHO AM I ?
 
 - A programmer with a modest pursuit for good code.
 - Skilled in ![Python](https://img.shields.io/badge/-Python-100000?style=flat-square&logo=Python) and ![Golang](https://img.shields.io/badge/-Golang-100000?style=flat-square&logo=Go), interested in ![Rust](https://img.shields.io/badge/-Rust-100000?style=flat-square&logo=Rust), frequently use ![Lua](https://img.shields.io/badge/-Lua-100000?style=flat-square&logo=Lua) to write my neovim configuration files, and use ![Shell](https://img.shields.io/badge/-Shell-100000?style=flat-square&logo=linux) to create some useful script.
@@ -19,7 +20,7 @@
 <!--END_SECTION:waka-->
 
 
-## The Language I Use
+### 🌍 The languages I use
 
 | ⏰ Past Month                                                                                                                                                  | ⌛️ All Time                                                                                                                                                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
