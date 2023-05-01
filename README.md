@@ -11,7 +11,8 @@
 ## <a href="https://github.com/leisurelicht" rel="nofollow"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="20px" width="20px"> </a> WHO AM I ?
 
 - A programmer with a modest pursuit for good code.
-- Skilled in ![Python](https://img.shields.io/badge/-Python-100000?style=flat-square&logo=Python) and ![Golang](https://img.shields.io/badge/-Golang-100000?style=flat-square&logo=Go). Frequently use ![Lua](https://img.shields.io/badge/-Lua-100000?style=flat-square&logo=Lua) to write my neovim configuration files, and use ![Shell](https://img.shields.io/badge/-Shell-100000?style=flat-square&logo=linux) to create some useful script.
+- Skilled in ![Python](https://img.shields.io/badge/-Python-100000?style=flat-square&logo=Python) and ![Golang](https://img.shields.io/badge/-Golang-100000?style=flat-square&logo=Go). 
+- Frequently use ![Lua](https://img.shields.io/badge/-Lua-100000?style=flat-square&logo=Lua) to write my neovim configuration files, and use ![Shell](https://img.shields.io/badge/-Shell-100000?style=flat-square&logo=linux) to create some useful script.
 - Heavy user of ![Neovim](https://img.shields.io/badge/-Neovim-100000?style=flat-square&logo=Neovim) recently and interested in implementing plugins for it.
 
 <p align="center"> if you like what i do, maybe consider buying me a coffee/tea <img src="https://media.giphy.com/media/lRSeZ2ddNwhZ5AgIvk/giphy.gif" width="25">
