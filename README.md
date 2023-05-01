@@ -17,6 +17,26 @@
 ----
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Bash                     8 hrs 37 mins       ████████████░░░░░░░░░░░░░   49.40 % 
+Go                       2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+YAML                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Lua                      1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+
+🔥 Editors: 
+Neovim                   10 hrs 7 mins       ██████████████░░░░░░░░░░░   57.93 % 
+GoLand                   5 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   32.02 % 
+Vim                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Chrome                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+```
+
+
+ Last Updated on 2023/05/01 12:42:31 UTC
 <!--END_SECTION:waka-->
 
 
