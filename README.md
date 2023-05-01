@@ -5,15 +5,13 @@
 <br>
 
 ![Waka Readme](https://github.com/leisurelicht/leisurelicht/workflows/Waka%20Readme/badge.svg)
-![GitHub followers](https://img.shields.io/github/followers/leisurelicht?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=leisurelicht.leisurelicht)
 
 
 ## WHO AM I ?
 
 - A programmer with a modest pursuit for good code.
-- Skilled in ![Python](https://img.shields.io/badge/-Python-100000?style=flat-square&logo=Python) and ![Golang](https://img.shields.io/badge/-Golang-100000?style=flat-square&logo=Go), interested in ![Rust](https://img.shields.io/badge/-Rust-100000?style=flat-square&logo=Rust), and frequently use ![Lua](https://img.shields.io/badge/-Lua-100000?style=flat-square&logo=Lua) to write my neovim configuration files.
-- Heavy user of ![Neovim](https://img.shields.io/badge/-Neovim-100000?style=flat-square&logo=Neovim) and recently interested in implementing plugins for it.
+- Skilled in ![Python](https://img.shields.io/badge/-Python-100000?style=flat-square&logo=Python) and ![Golang](https://img.shields.io/badge/-Golang-100000?style=flat-square&logo=Go), interested in ![Rust](https://img.shields.io/badge/-Rust-100000?style=flat-square&logo=Rust), frequently use ![Lua](https://img.shields.io/badge/-Lua-100000?style=flat-square&logo=Lua) to write my neovim configuration files, and use ![Shell](https://img.shields.io/badge/-Shell-100000?style=flat-square&logo=linux) to create some useful tools.
+- Heavy user of ![Neovim](https://img.shields.io/badge/-Neovim-100000?style=flat-square&logo=Neovim) recently and interested in implementing plugins for it.
 
 ----
 
