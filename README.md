@@ -8,10 +8,12 @@
 ## <a href="https://github.com/leisurelicht" rel="nofollow"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="20px" width="20px"> </a> WHO AM I ?
 
 - A programmer with a modest pursuit for good code.
-- Skilled in ![Python](https://img.shields.io/badge/-Python-100000?style=flat-square&logo=Python) and ![Golang](https://img.shields.io/badge/-Golang-100000?style=flat-square&logo=Go). 
-- Frequently use ![Lua](https://img.shields.io/badge/-Lua-100000?style=flat-square&logo=Lua) to write my neovim configuration files, and use ![Shell](https://img.shields.io/badge/-Shell-100000?style=flat-square&logo=linux) to create some useful script.
-- Heavy user of ![Neovim](https://img.shields.io/badge/-Neovim-100000?style=flat-square&logo=Neovim) recently and interested in implementing plugins for it.
-
+- Skilled in [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org) and [![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](). 
+- Frequently use [![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)](https://go.dev) to write my neovim configuration files, and use [![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) to create some useful script.
+- Heavy user of [![Neovim](https://img.shields.io/badge/-Neovim-white?style=flat&logo=Neovim)](https://neovim.io) recently and interested in implementing plugins for it. Also use [![Jetbrains](https://img.shields.io/badge/Jetbrains%20IDE-000000?style=flat&logo=jetbrains&logoColor=white)](https://www.jetbrains.com), [![Pycharm](https://img.shields.io/badge/PyCharm-143?style=float&logo=PyCharm&logoColor=white&color=2E8B57)](https://www.jetbrains.com/pycharm/) and [![Goland](https://img.shields.io/badge/GoLand-143?style=float&logo=GoLand&logoColor=white&color=00ADD8)](https://www.jetbrains.com/go/) are the most commonly used ones.
+- Mainly work on [![macOS](https://img.shields.io/badge/-macOS-purple?style=flat&logo=apple)](https://www.apple.com/macos), and also frequently use [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)](https://www.linux.org) such as [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/) and  [![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)](https://www.centos.org/) , somtimes ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows) if necessary.
+- Play game on [![Switch](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat&logo=Nintendo%20Switch")](https://www.nintendo.com/switch/)
+ and [![PS4](https://img.shields.io/badge/-PlayStation4-blue?style=flat&logo=PlayStation)](https://www.playstation.com/).
 
 <p align="center"> If you like what i do, maybe consider buying me a coffee/tea 
 <p align="center"><a href="./buy_me_a_coffee.md" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
