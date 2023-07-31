@@ -34,12 +34,10 @@
 
 ```text
 💬 Programming Languages: 
-Lua                      22 mins             ███████████████████░░░░░░   77.47 % 
-Other                    6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   22 mins             ███████████████████░░░░░░   77.47 % 
-Chrome                   6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+No Activity Tracked This Week
 ```
 
 
