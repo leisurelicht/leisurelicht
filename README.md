@@ -34,13 +34,10 @@
 
 ```text
 💬 Programming Languages: 
-Go                       58 mins             ████████████████░░░░░░░░░   63.24 % 
-Other                    33 mins             █████████░░░░░░░░░░░░░░░░   35.84 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   59 mins             ████████████████░░░░░░░░░   64.16 % 
-Chrome                   33 mins             █████████░░░░░░░░░░░░░░░░   35.84 % 
+No Activity Tracked This Week
 ```
 
 
