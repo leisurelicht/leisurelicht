@@ -34,10 +34,15 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 22 mins        ██████████████████░░░░░░░   72.23 % 
+Lua                      17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Makefile                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Go                       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   1 hr 22 mins        ██████████████████░░░░░░░   72.23 % 
+Neovim                   31 mins             ███████░░░░░░░░░░░░░░░░░░   27.77 % 
 ```
 
 
