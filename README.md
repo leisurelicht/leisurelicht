@@ -53,7 +53,3 @@ Neovim                   31 mins             ███████░░░░�
 | ⏰ Past Month                                                                                                                                                  | ⌛️ All Time                                                                                                                                                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://wakatime.com/@leisurelicht"><img src="https://wakatime.com/share/@leisurelicht/469e9d6a-5dd6-4a93-b293-75250ba5ce38.svg" height="300px"></a> | <a href="https://wakatime.com/@leisurelicht"><img src="https://wakatime.com/share/@leisurelicht/b234f59f-c24b-4a9d-bc65-acba005c4ac0.svg" height="300px"></a> |
-
-| ✍️ Coding activity                                                                                                                                      |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://wakatime.com/@leisurelicht"><img src="https://wakatime.com/share/@leisurelicht/5c22407d-e1cd-4776-9a7b-556379ea8570.svg" width="1000px"></a> |
