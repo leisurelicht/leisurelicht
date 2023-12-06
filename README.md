@@ -30,22 +30,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    31 hrs 32 mins      ████████████████████░░░░░   78.33 % 
-Go                       8 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Python                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-conf                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-
-🔥 Editors: 
-Chrome                   31 hrs 32 mins      ████████████████████░░░░░   78.33 % 
-GoLand                   8 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Neovim                   35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-```
-
 
 <!--END_SECTION:waka-->
 
