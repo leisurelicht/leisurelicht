@@ -34,15 +34,10 @@
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 21 mins       █████████████████░░░░░░░░   69.96 % 
-Go                       1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-Api File                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   4 hrs 21 mins       █████████████████░░░░░░░░   69.96 % 
-GoLand                   1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   30.04 % 
+No Activity Tracked This Week
 ```
 
 
