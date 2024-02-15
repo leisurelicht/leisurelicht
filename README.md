@@ -34,10 +34,13 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 12 mins       █████████████████████░░░░   84.68 % 
+Lua                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   2 hrs 12 mins       █████████████████████░░░░   84.68 % 
+Neovim                   24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 ```
 
 
