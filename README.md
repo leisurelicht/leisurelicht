@@ -1,9 +1,12 @@
 <img align=right src="https://github-readme-stats.vercel.app/api?username=leisurelicht&show_icons=true&include_all_commits=true&theme=tokyonight" style="width:50%">
 
-### Hello <a href="https://github.com/leisurelicht" rel="nofollow"> <img src="./image/wave.gif" height="36px" width="36px"> </a>
-
 <br>
 
+### Hello <a href="https://github.com/leisurelicht" rel="nofollow"> <img src="./image/wave.gif" height="72px" width="72px"> </a>
+
+
+<br>
+<br>
 
 ## <a href="https://github.com/leisurelicht" rel="nofollow"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n14BexZMoP1gqvSbLZSfYigjUvfcXkroScK00bl&rid=giphy.gif" height="20px" width="20px"> </a> WHO AM I ?
 
